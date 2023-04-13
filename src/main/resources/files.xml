@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<files topic="programming">
+    <file id="1">
+        <title>
+            Книга
+        </title>
+        <authors>
+            <author>
+                Иванов
+            </author>
+        </authors>
+        <price>
+            2000
+        </price>
+    </file>
+    <file id="2">
+        <title>
+            Журнал
+        </title>
+        <authors>
+            <author>
+                Петров
+            </author>
+            <author>
+                Сидоров
+            </author>
+        </authors>
+        <price>
+            3000
+        </price>
+    </file>
+    <file id="3">
+        <title>
+            Учебник
+        </title>
+        <authors>
+            <author>
+                Сергеев
+            </author>
+        </authors>
+        <price>
+            4000
+        </price>
+    </file>
+</files>
